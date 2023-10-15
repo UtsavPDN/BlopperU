@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BlopperU
+- 👋 Hi, I’m @Utsav Pradhan
 - 👀 I’m interested in ... Learning ahaha!
 - 🌱 I’m currently learning ... JavaScript
 - 💞️ I’m looking to collaborate on ...
